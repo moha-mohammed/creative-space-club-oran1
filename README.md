@@ -21,7 +21,7 @@
 
 ## 🚀 Live Demo
 👉 **[https://creative-space-club-oran1.tech](https://creative-space-club-oran1.tech)**  
-*(Replace with your live URL after deployment)*
+
 
 ---
 
@@ -33,3 +33,4 @@
 | **Google Fonts (Poppins)** | Modern typography |
 | **GitHub Pages** | Free hosting with HTTPS |
 | **Namecheap** | Free `.me` domain (via GitHub Student Pack) |
+
